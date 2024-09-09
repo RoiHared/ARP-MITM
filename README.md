@@ -1,4 +1,4 @@
-# Project Documentation: Network Security: ARP MitM
+# Network Security: ARP MitM
 
 ## Introduction
 ### ARP Protocol
